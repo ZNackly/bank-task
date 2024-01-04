@@ -1,1 +1,2 @@
 # bank-task
+The number n - the number of banking transactions - is submitted to the program for input. Then there are n lines with operations. 3 operations are defined: 1. add account amount - top up account account for the amount of amount 2. withdraw account amount - withdraw amount from account account 3. delete account - delete account account. The output should display the invoices in lexicographic order and the amounts on them after all operations.
